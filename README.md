@@ -4,8 +4,11 @@ web development portfolio site with custom CMS, online [here](https://sepweb.dev
 dependencies
 ----------
 -Php 8.2+
+
 -Laravel 11
+
 -npm
+
 -Composer
 
 setup
