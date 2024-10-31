@@ -26,4 +26,15 @@ usage
 ----------
 From the admin portal link at the bottom of the page, you can use the cms to make or edit posts, which will appear in the 'projects' section of the home page.
 
+To make a user who can add, edit posts, go to the project root directory, in your terminal, run:
+```
+php artisan tinker
+
+$user = new App\Models\User;
+$user->name = 'John Doe';
+$user->email = 'john@example.com';
+$user->password = bcrypt('password');
+$user->save();
+```
+
 Nb: This project was developed for a server with no symbolic link capabilities, so it works without symbolic links.
