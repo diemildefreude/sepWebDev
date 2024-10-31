@@ -1,0 +1,54 @@
+{
+  "resources/css/app.css": {
+    "file": "assets/app-CJi8KN0w.css",
+    "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "resources/css/reset.css": {
+    "file": "assets/reset-mZzlXVvw.css",
+    "src": "resources/css/reset.css",
+    "isEntry": true
+  },
+  "resources/js/anchor-links.js": {
+    "file": "assets/anchor-links-Bbhss-ZV.js",
+    "name": "anchor-links",
+    "src": "resources/js/anchor-links.js",
+    "isEntry": true
+  },
+  "resources/js/font-size.js": {
+    "file": "assets/font-size-BrE6QaHU.js",
+    "name": "font-size",
+    "src": "resources/js/font-size.js",
+    "isEntry": true
+  },
+  "resources/js/hero.js": {
+    "file": "assets/hero-DakpxnF-.js",
+    "name": "hero",
+    "src": "resources/js/hero.js",
+    "isEntry": true
+  },
+  "resources/js/icon-placement.js": {
+    "file": "assets/icon-placement-C3VMTAO_.js",
+    "name": "icon-placement",
+    "src": "resources/js/icon-placement.js",
+    "isEntry": true
+  },
+  "resources/js/menu.js": {
+    "file": "assets/menu-DNhloD2R.js",
+    "name": "menu",
+    "src": "resources/js/menu.js",
+    "isEntry": true
+  },
+  "resources/js/post.js": {
+    "file": "assets/post-umFjA-8O.js",
+    "name": "post",
+    "src": "resources/js/post.js",
+    "isEntry": true
+  },
+  "resources/js/scroll.js": {
+    "file": "assets/scroll-CVUB8Cwi.js",
+    "name": "scroll",
+    "src": "resources/js/scroll.js",
+    "isEntry": true
+  }
+}

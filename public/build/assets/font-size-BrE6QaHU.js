@@ -1,0 +1,1 @@
+let t;document.addEventListener("DOMContentLoaded",()=>{t=document.querySelectorAll(".js-sec-heading"),t.forEach(e=>{const n=e.innerText.length;let d=32-Math.max(0,n-8)*.8;e.style.setProperty("--sec-heading-font-size",`${d}px`)})});

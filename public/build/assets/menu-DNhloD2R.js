@@ -1,0 +1,1 @@
+let e,t;window.addEventListener("DOMContentLoaded",()=>{e=document.querySelector(".js-menu-button"),t=document.querySelector("nav"),e&&e.addEventListener("click",()=>{t.classList.toggle("closed"),e.classList.toggle("mobile-menu-open")})});
